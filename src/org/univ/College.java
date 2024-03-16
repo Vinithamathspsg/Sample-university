@@ -13,6 +13,7 @@ public class College extends University {
 		College v=new College();
 		v.ug(18);
 		v.pg(12);
+		System.out.println("Its done");
 		}
-
+ 
 }
